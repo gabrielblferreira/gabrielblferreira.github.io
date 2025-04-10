@@ -1,2 +1,2 @@
 # gabrielblferreira.github.io
-My cyber security project portifolio!
+My cybersecurity project portifolio!
